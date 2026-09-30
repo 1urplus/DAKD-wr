@@ -1,0 +1,12 @@
+data/
+logs/
+checkpoint/
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.pth.tar
+*.ckpt
+.queue_holds/
+.standard_queue_locks/
+.DS_Store
