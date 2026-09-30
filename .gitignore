@@ -10,3 +10,9 @@ __pycache__/
 .queue_holds/
 .standard_queue_locks/
 .DS_Store
+
+# Local experiment summaries and generated result tables.
+ALL_EXPERIMENT_RESULTS_*.md
+TINYIMAGENET_*.md
+TINY_RAFDB_TOP1_RESULTS_*.txt
+VGG13_TO_VGG8_RUNS_*.md
